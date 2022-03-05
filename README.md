@@ -1,7 +1,7 @@
 # Lorenz_Attractor
 
-Lorenz_RK4 simulates the Lorenz system of ODEs using the 4th order Runge-Kutta method of approximation.
+Some of the code from the notebook is in the code folder. Poinc_map.py is a cool visual of the map!
 
-The .py file is only a 3D simulation, similar to the version shown in class on 1/21/22, and the notebook includes the initial thoughts on a second part related to data streams.
+Lorenz_RK4 simulates the Lorenz system of ODEs using the 4th order Runge-Kutta method of approximation with a 3D simulation.
 
 The original pushes are on the branch called 'master.' I made a mistake and didnt push them to 'main,' then left them there. Ignore them unless needed.
